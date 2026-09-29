@@ -2,6 +2,9 @@ name: Update GitAscii
 
 on:
   workflow_dispatch:
+  schedule:
+    # Se ejecuta automáticamente al principio de cada hora
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
