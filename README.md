@@ -1,5 +1,1 @@
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd1dXBpcG5uZHhqeWt5czdlbzI5ejM1OXVkYTl1c3l0OXFkOWV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTWmuCMJ90Ems/giphy.gif"  />
-</div>
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31eql6bxj2euqzzu7tksj7pplobe&count=10&width=610&unique=1&duration=1&album=1&footer=wave&bg_color=201d2a&text_color=caa9fc&accent_color=caa9fc&logo_color=caa9fc)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31eql6bxj2euqzzu7tksj7pplobe&count=10&radius=15&unique=1&duration=1&profile=footer-right&bg_color=201d2a&text_color=caa9fc&accent_color=caa9fc&logo_color=caa9fc)](https://open.spotify.com/user/31eql6bxj2euqzzu7tksj7pplobe)
