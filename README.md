@@ -15,16 +15,16 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
   </a>
   <a href="mailto:aleeex.lmd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=201d2a&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=201d2a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://gitlab.com/Aleeex-lmd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=caa9fc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
   </a>
   <a href="https://steamcommunity.com/id/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=201d3a&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="steam logo" />
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=201d3a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="steam logo" />
   </a>
   <a href="https://tryhackme.com/p/aleeex.lmd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=caa9fc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
   </a>
 </div>
 
