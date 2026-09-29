@@ -1,1 +1,1 @@
-# Aleeex-ldm
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31eql6bxj2euqzzu7tksj7pplobe&count=10&width=610&unique=1&duration=1&album=1&footer=wave&bg_color=201d2a&text_color=caa9fc&accent_color=caa9fc&logo_color=caa9fc)
