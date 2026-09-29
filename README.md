@@ -14,7 +14,7 @@
   <a href="https://gitlab.com/Aleeex-lmd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
   </a>
-  <a href="https://steamcommunity.com/id/tu_usuario" target="_blank">
+  <a href="https://steamcommunity.com/id/Cubatas_Lovre" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=201d3a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="steam logo" />
   </a>
   <a href="https://tryhackme.com/p/aleeex.lmd" target="_blank">
