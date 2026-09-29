@@ -24,3 +24,9 @@
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31eql6bxj2euqzzu7tksj7pplobe&count=10&width=610&radius=15&unique=1&duration=1&profile=footer-right&bg_color=201d2a&text_color=caa9fc&accent_color=caa9fc&logo_color=caa9fc" alt="Spotify Recently Played">
   </a>
 </div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Aleeex-lmd/Aleeex-lmd/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&title_color=caa9fc&line=caa9fc&color=caa9fc&bg_color=201d2a&point=ffc5d3" height="300" alt="activity-graph graph"  />
+</div>
