@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="45" alt="gitlab logo" />
   </a>
   <a href="https://steamcommunity.com/id/cubataslover" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=201d3a&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="steam logo" />
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=201d2a&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="steam logo" />
   </a>
   <a href="https://tryhackme.com/p/aleeex.lmd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=caa9fc&logoColor=black&labelColor=&style=for-the-badge" height="45" alt="tryhackme logo" />
